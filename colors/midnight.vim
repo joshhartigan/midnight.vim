@@ -27,7 +27,7 @@ hi VertSplit ctermfg=0 ctermbg=0
 hi LineNr ctermfg=59 ctermbg=0
 hi NonText ctermfg=8 ctermbg=0
 hi StatusLine ctermfg=7 ctermbg=0
-hi Visual ctermfg=6 ctermbg=0
+hi Visual ctermfg=0 ctermbg=15
 hi WarningMsg ctermfg=9 ctermbg=0
 
 " syntax highlighting groups
